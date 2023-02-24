@@ -1,13 +1,13 @@
 # DevLinks_RocketSeat_2023
 
 
-### Técnicas de estudo em programação
+## Técnicas de estudo em programação
 
-#### Pomodoro
+### Pomodoro
 
-#### Lozanov
+### Lozanov
 
-#### Feymann
+### Feymann
 
-#### Active Recall
+### Active Recall
 
