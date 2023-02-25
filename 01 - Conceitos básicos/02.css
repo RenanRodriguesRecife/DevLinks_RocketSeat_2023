@@ -3,3 +3,9 @@
 body {
     background: red;
 }
+/* quando há duas ou mais declarações a ultima é a mais relevante */
+
+body{
+    background: blue;
+}
+

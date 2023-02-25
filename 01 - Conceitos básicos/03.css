@@ -1,0 +1,36 @@
+/* Especificidade
+
+    cada seletor tem um peso e a soma dos pesos, será levada em conta para que determinada declaração seja mais específica
+
+    #id{
+        PESO 100
+    }
+
+    .class{
+        peso 10
+    }
+
+    element{
+        peso 1
+    }
+
+    a cascata perde prioridade e é priorizada a especificidade da declaração
+*/
+
+/* Para id não importa a especifidade ele está sobre tudo */
+p#unico-1 {
+    color: blue;
+}
+
+.qualquer{
+    color: green;
+}
+
+p {
+    color: red;
+}
+
+
+
+/* css não aceita que nomes de id e classes começe com números e caracteres especiais 
+    mas o # ele aceita*/
